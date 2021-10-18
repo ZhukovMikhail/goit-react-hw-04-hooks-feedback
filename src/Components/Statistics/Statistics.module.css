@@ -1,0 +1,23 @@
+.title {
+  text-align: center;
+  color: green;
+}
+.stats {
+  width: 180px;
+  margin: 0 auto;
+}
+
+p {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.25;
+  color: rgb(1, 1, 110);
+}
+span {
+  display: inline-block;
+  margin-left: auto;
+  font-size: 15px;
+  font-weight: 600;
+}
